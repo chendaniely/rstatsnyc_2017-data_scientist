@@ -355,7 +355,7 @@ write.csv(x = mat, file = 'my_data.csv')
 Anywhere that's not where you typed `git init`
 
 - `git push origin master`
-- `put pull origin master`
+- `git pull origin master`
 
 ## Creating a Github Remote
 
