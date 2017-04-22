@@ -1,13 +1,13 @@
 ---
 title: "So You Want to be a Data Scientist?"
-subtitle: "1800 Minutes in 20 a la Jeff Leek"
 author: "Daniel Chen"
 date: "rstatsnyc 2017-04-22"
-output: 
-  ioslides_presentation: 
+output:
+  ioslides_presentation:
     keep_md: yes
     self_contained: yes
     widescreen: yes
+subtitle: 1800 Minutes in 20 a la Jeff Leek
 ---
 
 ```{r setup, include=FALSE}
