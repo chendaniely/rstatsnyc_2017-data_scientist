@@ -60,6 +60,13 @@ knitr::opts_chunk$set(echo = FALSE)
 MICHAEL KANE
 </center>
 
+## and...
+
+<center>
+<img src='figures/aaron-hall.jpg' />
+<br>
+AARON HALL
+</center>
 ## Hi
 
 Daniel Chen
@@ -98,8 +105,7 @@ Daniel Chen
 ## Data Science is Accessable!
 
 <center>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The new NBA <a href="https://t.co/RkV6PkwXaD">pic.twitter.com/RkV6PkwXaD</a></p>&mdash; Mark Cuban (@mcuban) <a href="https://twitter.com/mcuban/status/846781342083923969">March 28, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src='figures/tweet.png' width=45% />
 </center>
 
 ## Tools and skills needed to be a Data Scientist
@@ -192,7 +198,7 @@ cat id_rsa.pub
 - Documents your process
     - Directly manipulating your data
 - Testing your data
-    - RStatsNYC 2016
+    - [RStatsNYC 2016][19]
 
 ## Installing R
 
@@ -567,3 +573,4 @@ make: Nothing to be done for 'plots'.
 [16]: https://cran.r-project.org/web/packages/ProjectTemplate/index.html
 [17]: https://swcarpentry.github.io/r-novice-inflammation/
 [18]: https://swcarpentry.github.io/r-novice-gapminder/
+[19]: https://www.youtube.com/watch?v=CAy0udiWwmg
