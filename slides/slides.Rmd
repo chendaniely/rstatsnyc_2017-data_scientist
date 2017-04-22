@@ -102,7 +102,7 @@ Daniel Chen
 <img src='figures/typewriter.png' />
 </center>
 
-## Data Science is Accessable!
+## Data Science is Accessible!
 
 <center>
 <img src='figures/tweet.png' width=45% />
@@ -208,7 +208,7 @@ cat id_rsa.pub
 
 - Use anaconda!
 - https://www.continuum.io/downloads
-- Installs things under local user... which you have permisison to change!
+- Installs things under local user... which you have permission to change!
 
 - `conda install r r-essentials`
     - https://conda.io/docs/r-with-conda.html
@@ -300,7 +300,7 @@ render(input, output_format = NULL, output_file = NULL, output_dir = NULL,
        run_pandoc = TRUE, quiet = FALSE, encoding = getOption("encoding"))
 ```
 
-## Somewhat annoyting knitr button
+## Somewhat annoying knitr button
 
 https://github.com/chendaniely/rendR
 
@@ -335,14 +335,15 @@ write.csv(x = mat, file = 'my_data.csv')
 ## Git solves...
 
 <center>
-<img src='figures/phd_final_doc.gif' width=55%/>
+<img src='figures/phd_final_doc.gif' width=45%/>
 </center>
 
 ## tl;dr
 
+- make a `~/git` folder
 - `git init`
     - turns the current folder into a git repo(sitory)
-    - **DO NOT** type this in a subfolder
+    - **DO NOT** type this in a sub-folder
 - `git add final.doc`
     - adds final.doc to the 'staging area'
 - `git commit -m 'add final.doc'`
@@ -358,9 +359,11 @@ Anywhere that's not where you typed `git init`
 
 ## Creating a Github Remote
 
-<img src='figures/github_add_1.png' width=95% />
+<center>
+<img src='figures/github_add_1.png' width=55% />
 
 <img src='figures/github_add_2.png' width=95% />
+</center>
 
 ## Naming the remote
 
@@ -554,6 +557,10 @@ make: Nothing to be done for 'plots'.
 - http://chendaniely.github.io/
 - @chendaniely
 - https://github.com/chendaniely/rstatsnyc_2017-data_scientist
+
+<center>
+<img src='figures/hobbes.jpg' / width=45%>
+</center>
 
 [1]: http://gbcb.vbi.vt.edu/
 [2]: https://www.bi.vt.edu/
